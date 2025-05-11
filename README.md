@@ -66,3 +66,8 @@ ODS 12: Producción y consumo responsable.
 - Cálculo automático de caducidad para frutas y verduras
 - Sistema de notificaciones
 - Recomendaciones de uso
+
+---
+
+## Diagrama de flujo
+https://miro.com/app/board/uXjVI6qMszE=/
