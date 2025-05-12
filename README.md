@@ -71,3 +71,5 @@ ODS 12: Producción y consumo responsable.
 
 ## Diagrama de flujo
 https://miro.com/app/board/uXjVI6qMszE=/
+![WasteSaver](https://github.com/user-attachments/assets/74aa4b11-1017-401e-916a-04331b3bb63c)
+
